@@ -1,3 +1,4 @@
+package java_practice;
 //import java.util.*;
 
 //import java.util.Scanner;
@@ -31,7 +32,7 @@ public class Date{
     public int getMonth() {return month ;}
     public int getYear() {return year;}
 
-    
+
 }
 
 
