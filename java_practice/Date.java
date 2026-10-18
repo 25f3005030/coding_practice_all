@@ -32,7 +32,6 @@ public class Date{
     public int getMonth() {return month ;}
     public int getYear() {return year;}
 
-
 }
 
 
