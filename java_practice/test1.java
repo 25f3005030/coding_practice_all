@@ -1,4 +1,4 @@
-package java_practice;
+
 
 class Sclass{
     int i=10;

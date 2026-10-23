@@ -1,4 +1,4 @@
-package java_practice;
+
 //import java.util.*;
 
 //import java.util.Scanner;
